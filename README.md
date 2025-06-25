@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://yourpersonalwebsite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafiq079)
 
-**📧 Email:** shafiq079@gmail.com  
+**📧 Email:** shafiqsheeeqi079@gmail.com  
 **📍 Location:** Gujrat, Pakistan  
 **⭐ Featured Project:** `premiumhomeservices` (Private)
 
